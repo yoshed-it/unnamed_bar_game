@@ -54,7 +54,7 @@ func set_state() -> bool:
 	
 func update_animation() -> void:
 	var animation_name = state + "_" + animation_direction()
-	print("Now Playing {animation_name} Animation")
+	print("Now Playing %s Animation" % [animation_name])
 	animation_player.play(state + "_" + animation_direction())
 
 
