@@ -37,8 +37,8 @@
 [ext_resource type="Texture2D" uid="uid://k6om5m8g81ig" path="res://Player/FemaleCafeMaid/FemaleCafeMaid_combined_36.png" id="35_0udbf"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_xb46h"]
-radius = 7.5
-height = 16.0
+radius = 5.0
+height = 12.0
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_cowui"]
 animations = [{
@@ -198,6 +198,38 @@ tracks/0/keys = {
 "values": [0]
 }
 
+[sub_resource type="Animation" id="Animation_fj2fq"]
+resource_name = "idle_side"
+length = 0.4
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Sprite2D:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [3]
+}
+
+[sub_resource type="Animation" id="Animation_1q3fv"]
+resource_name = "idle_right"
+length = 0.4
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Sprite2D:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [2]
+}
+
 [sub_resource type="Animation" id="Animation_2sjg7"]
 resource_name = "idle_up"
 length = 0.4
@@ -286,38 +318,6 @@ tracks/0/keys = {
 "values": [12, 13, 14, 15, 16, 17, 18, 19]
 }
 
-[sub_resource type="Animation" id="Animation_fj2fq"]
-resource_name = "idle_side"
-length = 0.4
-tracks/0/type = "value"
-tracks/0/imported = false
-tracks/0/enabled = true
-tracks/0/path = NodePath("Sprite2D:frame")
-tracks/0/interp = 1
-tracks/0/loop_wrap = true
-tracks/0/keys = {
-"times": PackedFloat32Array(0),
-"transitions": PackedFloat32Array(1),
-"update": 1,
-"values": [3]
-}
-
-[sub_resource type="Animation" id="Animation_1q3fv"]
-resource_name = "idle_right"
-length = 0.4
-tracks/0/type = "value"
-tracks/0/imported = false
-tracks/0/enabled = true
-tracks/0/path = NodePath("Sprite2D:frame")
-tracks/0/interp = 1
-tracks/0/loop_wrap = true
-tracks/0/keys = {
-"times": PackedFloat32Array(0),
-"transitions": PackedFloat32Array(1),
-"update": 1,
-"values": [2]
-}
-
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_1q38a"]
 _data = {
 "RESET": SubResource("Animation_28fr1"),
@@ -332,12 +332,16 @@ _data = {
 }
 
 [node name="Player" type="CharacterBody2D"]
-position = Vector2(293, 188)
+z_index = 1
+y_sort_enabled = true
+position = Vector2(-1, 0)
+collision_mask = 16
 script = ExtResource("1_tepmf")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 texture_filter = 1
-position = Vector2(0, 7)
+position = Vector2(0, 19)
+rotation = 1.5708
 shape = SubResource("CapsuleShape2D_xb46h")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
@@ -355,3 +359,6 @@ hframes = 36
 libraries = {
 "": SubResource("AnimationLibrary_1q38a")
 }
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(0, 1)
