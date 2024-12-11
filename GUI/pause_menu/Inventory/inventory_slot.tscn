@@ -1,0 +1,28 @@
+[gd_scene load_steps=3 format=3 uid="uid://k753rq4kamis"]
+
+[ext_resource type="Texture2D" uid="uid://cou2aedmsww41" path="res://Items/Sprites/Individual_Icons/GuttyKreum_JapanCollection_Icons_028.png" id="1_i8orr"]
+[ext_resource type="Script" path="res://GUI/pause_menu/Inventory/inventory_slot_ui.gd" id="1_r77i5"]
+
+[node name="InventorySlot" type="Button"]
+custom_minimum_size = Vector2(32, 32)
+offset_right = 32.0
+offset_bottom = 32.0
+size_flags_horizontal = 4
+script = ExtResource("1_r77i5")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+custom_minimum_size = Vector2(32, 32)
+layout_mode = 1
+offset_right = 32.0
+offset_bottom = 32.0
+texture = ExtResource("1_i8orr")
+stretch_mode = 3
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_left = 21.0
+offset_top = -1.0
+offset_right = 61.0
+offset_bottom = 22.0
+theme_override_font_sizes/font_size = 8
+text = "99"

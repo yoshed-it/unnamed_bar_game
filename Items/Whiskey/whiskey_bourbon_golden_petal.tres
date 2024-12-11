@@ -1,0 +1,17 @@
+[gd_resource type="Resource" script_class="BoozeData" load_steps=3 format=3 uid="uid://7a6ua56he3f0"]
+
+[ext_resource type="Script" path="res://Items/Scripts/booze_data.gd" id="1_eol5s"]
+[ext_resource type="Texture2D" uid="uid://bwonk4043clo2" path="res://Items/Sprites/Individual_Icons/GuttyKreum_JapanCollection_Icons_029.png" id="2_6pqgd"]
+
+[resource]
+script = ExtResource("1_eol5s")
+name = "Golden Petal Bourbon"
+abv = 0.5
+color = "Brown"
+flavor_profile = "Deep"
+origin = "USA"
+rarity = 1
+price = 40
+special_effect = ""
+texture = ExtResource("2_6pqgd")
+description = "Classic Tennissee Whiskey"
