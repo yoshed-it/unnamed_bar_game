@@ -1,0 +1,67 @@
+[gd_scene load_steps=5 format=3 uid="uid://cwd8shydupqeo"]
+
+[ext_resource type="Script" path="res://GUI/player_hud/scripts/stress_bar.gd" id="1_50d0t"]
+[ext_resource type="Script" path="res://GUI/player_hud/scripts/intox_bar.gd" id="1_aqg5d"]
+[ext_resource type="Script" path="res://GUI/player_hud/scripts/health_bar.gd" id="3_twfwi"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_y75r8"]
+bg_color = Color(1, 0, 0, 1)
+
+[node name="PlayerMainGui" type="CanvasLayer"]
+
+[node name="health_bar" type="ProgressBar" parent="."]
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -128.0
+offset_top = 1.0
+offset_bottom = 9.0
+grow_horizontal = 0
+size_flags_horizontal = 8
+theme_override_styles/fill = SubResource("StyleBoxFlat_y75r8")
+value = 69.0
+show_percentage = false
+script = ExtResource("3_twfwi")
+
+[node name="intox_bar" type="ProgressBar" parent="."]
+anchors_preset = 6
+anchor_left = 1.0
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_left = -128.0
+offset_top = -169.0
+offset_bottom = -161.0
+grow_horizontal = 0
+grow_vertical = 2
+theme_override_styles/fill = SubResource("StyleBoxFlat_y75r8")
+value = 69.0
+show_percentage = false
+script = ExtResource("1_aqg5d")
+
+[node name="stress_bar" type="ProgressBar" parent="."]
+anchors_preset = 3
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -128.0
+offset_top = -339.0
+offset_bottom = -331.0
+grow_horizontal = 0
+grow_vertical = 0
+theme_override_styles/fill = SubResource("StyleBoxFlat_y75r8")
+value = 69.0
+show_percentage = false
+script = ExtResource("1_50d0t")
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -243.0
+offset_bottom = 122.0
+grow_horizontal = 0
+size_flags_horizontal = 8
+size_flags_vertical = 0
