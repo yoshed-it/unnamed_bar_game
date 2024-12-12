@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=3 uid="uid://dglptmm2yx2g6"]
 
-[ext_resource type="Script" path="res://scripts/gui/pause_menu.gd" id="1_bpwwu"]
+[ext_resource type="Script" path="res://scripts/gui/pause_menu/pause_menu.gd" id="1_bpwwu"]
 [ext_resource type="PackedScene" uid="uid://k753rq4kamis" path="res://gui/pause_menu/inventory/inventory_slot.tscn" id="2_7yo68"]
 [ext_resource type="Script" path="res://scripts/gui/inventory/inventory_ui.gd" id="2_urrrb"]
 [ext_resource type="Resource" uid="uid://cm5xbtntdt2kw" path="res://resources/inventory/player_inventory.tres" id="3_chybp"]
@@ -69,7 +69,6 @@ offset_top = 232.0
 offset_right = 384.0
 offset_bottom = 280.0
 theme_override_font_sizes/font_size = 12
-text = "fdsafdsafasfasdfadsfsadfsadfsdfasadsdafadsf"
 autowrap_mode = 2
 
 [node name="PanelContainer" type="PanelContainer" parent="."]

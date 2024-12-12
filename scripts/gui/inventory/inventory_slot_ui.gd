@@ -17,14 +17,13 @@ func set_slot_data(value : SlotData) -> void:
 	slot_data = value
 	if slot_data == null:
 		return
-	#texture_rect.texture = slot_data.item_data.texture
-	texture_rect.texture = slot_data.booze_data.texture
+	texture_rect.texture = slot_data.item_data.texture
 	label.text = str(slot_data.quantity)
 
 func item_focused() -> void:
 	if slot_data != null:
-		if slot_data.booze_data != null:
-			PauseMenu.update_item_description(slot_data.booze_data.description)
+		if slot_data.item_data != null:
+			PauseMenu.update_item_description(slot_data.item_data.description)
 
 	
 func item_unfocused() -> void:

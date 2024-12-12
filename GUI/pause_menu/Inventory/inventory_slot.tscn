@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://k753rq4kamis"]
 
-[ext_resource type="Texture2D" uid="uid://cou2aedmsww41" path="res://items/sprites/Individual_Icons/GuttyKreum_JapanCollection_Icons_028.png" id="1_i8orr"]
 [ext_resource type="Script" path="res://scripts/gui/inventory/inventory_slot_ui.gd" id="1_r77i5"]
+[ext_resource type="Texture2D" uid="uid://cou2aedmsww41" path="res://items/sprites/Individual_Icons/GuttyKreum_JapanCollection_Icons_028.png" id="2_x5r46"]
 
 [node name="InventorySlot" type="Button"]
 custom_minimum_size = Vector2(32, 32)
@@ -15,7 +15,7 @@ custom_minimum_size = Vector2(32, 32)
 layout_mode = 1
 offset_right = 32.0
 offset_bottom = 32.0
-texture = ExtResource("1_i8orr")
+texture = ExtResource("2_x5r46")
 stretch_mode = 3
 
 [node name="Label" type="Label" parent="."]

@@ -1,20 +1,8 @@
-[gd_resource type="Resource" script_class="InventoryData" load_steps=7 format=3 uid="uid://cm5xbtntdt2kw"]
+[gd_resource type="Resource" script_class="InventoryData" load_steps=3 format=3 uid="uid://cm5xbtntdt2kw"]
 
-[ext_resource type="Script" path="res://scripts/gui/inventory/inventory_data.gd" id="1_nhxrf"]
-[ext_resource type="Script" path="res://scripts/gui/inventory/slot_data.gd" id="2_jiprg"]
-[ext_resource type="Resource" uid="uid://bdixnlh5lop2d" path="res://items/vodka/vodka_frostbite.tres" id="3_7jx6k"]
-[ext_resource type="Resource" uid="uid://7a6ua56he3f0" path="res://items/whiskey/whiskey_bourbon_golden_petal.tres" id="4_fuqyp"]
-
-[sub_resource type="Resource" id="Resource_37k6k"]
-script = ExtResource("2_jiprg")
-booze_data = ExtResource("3_7jx6k")
-quantity = 3
-
-[sub_resource type="Resource" id="Resource_1ypks"]
-script = ExtResource("2_jiprg")
-booze_data = ExtResource("4_fuqyp")
-quantity = 0
+[ext_resource type="Script" path="res://scripts/gui/inventory/inventory_data.gd" id="1_wccv5"]
+[ext_resource type="Script" path="res://scripts/gui/inventory/slot_data.gd" id="2_rnea1"]
 
 [resource]
-script = ExtResource("1_nhxrf")
-slots = Array[ExtResource("2_jiprg")]([SubResource("Resource_37k6k"), SubResource("Resource_1ypks"), null, null, null, null, null, null, null, null, null, null])
+script = ExtResource("1_wccv5")
+slots = Array[ExtResource("2_rnea1")]([null, null, null, null, null, null, null, null, null, null, null, null])
