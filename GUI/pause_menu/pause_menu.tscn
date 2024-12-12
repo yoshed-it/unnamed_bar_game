@@ -3,7 +3,7 @@
 [ext_resource type="Script" path="res://scripts/gui/pause_menu.gd" id="1_bpwwu"]
 [ext_resource type="PackedScene" uid="uid://k753rq4kamis" path="res://gui/pause_menu/inventory/inventory_slot.tscn" id="2_7yo68"]
 [ext_resource type="Script" path="res://scripts/gui/inventory/inventory_ui.gd" id="2_urrrb"]
-[ext_resource type="Resource" uid="uid://cm5xbtntdt2kw" path="res://gui/pause_menu/inventory/player_inventory.tres" id="3_chybp"]
+[ext_resource type="Resource" uid="uid://cm5xbtntdt2kw" path="res://resources/inventory/player_inventory.tres" id="3_chybp"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_2ol3n"]
 bg_color = Color(0.176471, 0.176471, 0.176471, 0.784314)

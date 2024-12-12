@@ -19,7 +19,7 @@ config/icon="res://icon.svg"
 
 LevelManager="*res://scripts/00_globals/GlobalLevelManager.gd"
 SaveManager="*res://scripts/00_globals/GlobalSaveManager.gd"
-PlayerMainGui="*res://gui/player_hud/scripts/player_main_gui.gd"
+PlayerMainGui="*res://scripts/gui/player_hud/player_main_gui.gd"
 PauseMenu="*res://gui/pause_menu/pause_menu.tscn"
 
 [display]

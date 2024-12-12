@@ -1,8 +1,8 @@
 [gd_scene load_steps=5 format=3 uid="uid://cwd8shydupqeo"]
 
-[ext_resource type="Script" path="res://gui/player_hud/scripts/stress_bar.gd" id="1_50d0t"]
-[ext_resource type="Script" path="res://gui/player_hud/scripts/intox_bar.gd" id="1_aqg5d"]
-[ext_resource type="Script" path="res://gui/player_hud/scripts/health_bar.gd" id="3_twfwi"]
+[ext_resource type="Script" path="res://scripts/gui/player_hud/stress_bar.gd" id="1_50d0t"]
+[ext_resource type="Script" path="res://scripts/gui/player_hud/intox_bar.gd" id="1_aqg5d"]
+[ext_resource type="Script" path="res://scripts/gui/player_hud/health_bar.gd" id="3_twfwi"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_y75r8"]
 bg_color = Color(1, 0, 0, 1)
