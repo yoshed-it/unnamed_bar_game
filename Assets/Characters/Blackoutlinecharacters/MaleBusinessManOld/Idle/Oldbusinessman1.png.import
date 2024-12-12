@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6nm7ty0wdprt"
-path="res://.godot/imported/Oldbusinessman1.png-9f116571e28e2a29902a4db93dd09676.ctex"
+path="res://.godot/imported/Oldbusinessman1.png-fea36a7d47c37404fe15e447e6fa2373.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/MaleBusinessManOld/Idle/Oldbusinessman1.png"
-dest_files=["res://.godot/imported/Oldbusinessman1.png-9f116571e28e2a29902a4db93dd09676.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/MaleBusinessManOld/Idle/Oldbusinessman1.png"
+dest_files=["res://.godot/imported/Oldbusinessman1.png-fea36a7d47c37404fe15e447e6fa2373.ctex"]
 
 [params]
 

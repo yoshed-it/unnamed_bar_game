@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://boe3k4io0sda3"
-path="res://.godot/imported/Malecasualwalkingwest2.png-56bad285a71d5458448b98bdc850120b.ctex"
+path="res://.godot/imported/Malecasualwalkingwest2.png-e06d2b4dbc7369622d6d553bda19e088.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/MaleCasual/WalkingWest/Malecasualwalkingwest2.png"
-dest_files=["res://.godot/imported/Malecasualwalkingwest2.png-56bad285a71d5458448b98bdc850120b.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/MaleCasual/WalkingWest/Malecasualwalkingwest2.png"
+dest_files=["res://.godot/imported/Malecasualwalkingwest2.png-e06d2b4dbc7369622d6d553bda19e088.ctex"]
 
 [params]
 

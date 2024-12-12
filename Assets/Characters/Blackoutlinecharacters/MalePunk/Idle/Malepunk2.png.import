@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://shguclopv0t1"
-path="res://.godot/imported/Malepunk2.png-9d8ac3d448baa36b1ca268c08bc83f02.ctex"
+path="res://.godot/imported/Malepunk2.png-be2ffaea9312a0ffefcf93ebae85c231.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/MalePunk/Idle/Malepunk2.png"
-dest_files=["res://.godot/imported/Malepunk2.png-9d8ac3d448baa36b1ca268c08bc83f02.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/MalePunk/Idle/Malepunk2.png"
+dest_files=["res://.godot/imported/Malepunk2.png-be2ffaea9312a0ffefcf93ebae85c231.ctex"]
 
 [params]
 

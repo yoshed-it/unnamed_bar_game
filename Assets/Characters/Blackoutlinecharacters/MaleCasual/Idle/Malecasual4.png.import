@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5sle00r73kvn"
-path="res://.godot/imported/Malecasual4.png-5ed71ae7ca35bc0f32e1e743b35bc532.ctex"
+path="res://.godot/imported/Malecasual4.png-251613c3c111c8718a36f8d95496d1cf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/MaleCasual/Idle/Malecasual4.png"
-dest_files=["res://.godot/imported/Malecasual4.png-5ed71ae7ca35bc0f32e1e743b35bc532.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/MaleCasual/Idle/Malecasual4.png"
+dest_files=["res://.godot/imported/Malecasual4.png-251613c3c111c8718a36f8d95496d1cf.ctex"]
 
 [params]
 

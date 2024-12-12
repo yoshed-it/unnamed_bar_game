@@ -1,6 +1,6 @@
 [gd_resource type="TileSet" load_steps=3 format=3 uid="uid://ckqw5ax0q3ky8"]
 
-[ext_resource type="Texture2D" uid="uid://cnk0s1g5wa5o8" path="res://Items/Sprites/GuttyKreum_JapanCollection_Icons.png" id="1_li22d"]
+[ext_resource type="Texture2D" uid="uid://cnk0s1g5wa5o8" path="res://items/sprites/GuttyKreum_JapanCollection_Icons.png" id="1_li22d"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_rfw0v"]
 texture = ExtResource("1_li22d")

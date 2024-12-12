@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b20nsm7612hoa"
-path="res://.godot/imported/GK_Actor_3.png-02b3e8fa4c3dac0e38281fc724ec5f46.ctex"
+path="res://.godot/imported/GK_Actor_3.png-aa364e9fba2a04667bfb532f585afc57.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/RPGMakerVXAce/GK_Actor_3.png"
-dest_files=["res://.godot/imported/GK_Actor_3.png-02b3e8fa4c3dac0e38281fc724ec5f46.ctex"]
+source_file="res://assets/Characters/RPGMakerVXAce/GK_Actor_3.png"
+dest_files=["res://.godot/imported/GK_Actor_3.png-aa364e9fba2a04667bfb532f585afc57.ctex"]
 
 [params]
 

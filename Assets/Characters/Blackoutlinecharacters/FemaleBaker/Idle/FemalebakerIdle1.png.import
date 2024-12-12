@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btj7xi6mn4adb"
-path="res://.godot/imported/FemalebakerIdle1.png-797e81a002fb33816a3e17a893eaa55a.ctex"
+path="res://.godot/imported/FemalebakerIdle1.png-95a5c68a06f20303984aeeba96480d4d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/FemaleBaker/Idle/FemalebakerIdle1.png"
-dest_files=["res://.godot/imported/FemalebakerIdle1.png-797e81a002fb33816a3e17a893eaa55a.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/FemaleBaker/Idle/FemalebakerIdle1.png"
+dest_files=["res://.godot/imported/FemalebakerIdle1.png-95a5c68a06f20303984aeeba96480d4d.ctex"]
 
 [params]
 

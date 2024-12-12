@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3lamyj5mymwb"
-path="res://.godot/imported/Templatewalkingwestrightarm4.png-b9def2bac084a6e49ad3ef1fb7187986.ctex"
+path="res://.godot/imported/Templatewalkingwestrightarm4.png-aa98d890d0e09087ea2849dbb6ee2494.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Template/WalkingWest/TemplatePieces/Rightarm/Templatewalkingwestrightarm4.png"
-dest_files=["res://.godot/imported/Templatewalkingwestrightarm4.png-b9def2bac084a6e49ad3ef1fb7187986.ctex"]
+source_file="res://assets/Characters/Template/WalkingWest/TemplatePieces/Rightarm/Templatewalkingwestrightarm4.png"
+dest_files=["res://.godot/imported/Templatewalkingwestrightarm4.png-aa98d890d0e09087ea2849dbb6ee2494.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cojvmu6g24cnl"
-path="res://.godot/imported/Femaletrendy2.png-17f0bed2f429fd4233d51cdaadb38d6f.ctex"
+path="res://.godot/imported/Femaletrendy2.png-3fe1ca77d671bf350860f7236e749f1b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/FemaleTrendy/Idle/Femaletrendy2.png"
-dest_files=["res://.godot/imported/Femaletrendy2.png-17f0bed2f429fd4233d51cdaadb38d6f.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/FemaleTrendy/Idle/Femaletrendy2.png"
+dest_files=["res://.godot/imported/Femaletrendy2.png-3fe1ca77d671bf350860f7236e749f1b.ctex"]
 
 [params]
 

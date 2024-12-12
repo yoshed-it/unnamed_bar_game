@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqmlfkklf0v2d"
-path="res://.godot/imported/Witch4.png-c093b062e42c388c3c5bccead66f309d.ctex"
+path="res://.godot/imported/Witch4.png-41d2acd21603a36601203e00178d474c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/Witch/Idle/Witch4.png"
-dest_files=["res://.godot/imported/Witch4.png-c093b062e42c388c3c5bccead66f309d.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/Witch/Idle/Witch4.png"
+dest_files=["res://.godot/imported/Witch4.png-41d2acd21603a36601203e00178d474c.ctex"]
 
 [params]
 

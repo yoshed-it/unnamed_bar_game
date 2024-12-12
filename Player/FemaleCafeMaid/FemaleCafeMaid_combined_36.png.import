@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://k6om5m8g81ig"
-path="res://.godot/imported/FemaleCafeMaid_combined_36.png-1b66b8b09f7910d2b69a260aade4bd63.ctex"
+path="res://.godot/imported/FemaleCafeMaid_combined_36.png-3ac53f93e6f061e770760b8603e81115.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Player/FemaleCafeMaid/FemaleCafeMaid_combined_36.png"
-dest_files=["res://.godot/imported/FemaleCafeMaid_combined_36.png-1b66b8b09f7910d2b69a260aade4bd63.ctex"]
+source_file="res://player/FemaleCafeMaid/FemaleCafeMaid_combined_36.png"
+dest_files=["res://.godot/imported/FemaleCafeMaid_combined_36.png-3ac53f93e6f061e770760b8603e81115.ctex"]
 
 [params]
 

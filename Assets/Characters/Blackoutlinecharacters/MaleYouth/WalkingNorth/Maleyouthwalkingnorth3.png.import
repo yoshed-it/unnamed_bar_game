@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://di5rg7yway6i4"
-path="res://.godot/imported/Maleyouthwalkingnorth3.png-07dbf93295a8bcdd336b4eb012c72578.ctex"
+path="res://.godot/imported/Maleyouthwalkingnorth3.png-b377934290470897b3b534431b9ec7a0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/MaleYouth/WalkingNorth/Maleyouthwalkingnorth3.png"
-dest_files=["res://.godot/imported/Maleyouthwalkingnorth3.png-07dbf93295a8bcdd336b4eb012c72578.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/MaleYouth/WalkingNorth/Maleyouthwalkingnorth3.png"
+dest_files=["res://.godot/imported/Maleyouthwalkingnorth3.png-b377934290470897b3b534431b9ec7a0.ctex"]
 
 [params]
 

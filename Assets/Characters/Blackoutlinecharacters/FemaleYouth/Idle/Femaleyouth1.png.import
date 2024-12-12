@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c77gufxtq4m7a"
-path="res://.godot/imported/Femaleyouth1.png-0146799e6607ce7a7aaaf44c2dd52afa.ctex"
+path="res://.godot/imported/Femaleyouth1.png-25e3e223ea2c08b25646469ed68d1fa3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/FemaleYouth/Idle/Femaleyouth1.png"
-dest_files=["res://.godot/imported/Femaleyouth1.png-0146799e6607ce7a7aaaf44c2dd52afa.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/FemaleYouth/Idle/Femaleyouth1.png"
+dest_files=["res://.godot/imported/Femaleyouth1.png-25e3e223ea2c08b25646469ed68d1fa3.ctex"]
 
 [params]
 

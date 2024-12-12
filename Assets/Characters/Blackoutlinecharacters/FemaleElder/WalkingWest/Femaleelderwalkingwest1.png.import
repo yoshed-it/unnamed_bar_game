@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://p0ihjd3srw6r"
-path="res://.godot/imported/Femaleelderwalkingwest1.png-3fe9b800930af6e6d1a792942f713874.ctex"
+path="res://.godot/imported/Femaleelderwalkingwest1.png-6a91f9887f5012e15c9717a0473aa662.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/FemaleElder/WalkingWest/Femaleelderwalkingwest1.png"
-dest_files=["res://.godot/imported/Femaleelderwalkingwest1.png-3fe9b800930af6e6d1a792942f713874.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/FemaleElder/WalkingWest/Femaleelderwalkingwest1.png"
+dest_files=["res://.godot/imported/Femaleelderwalkingwest1.png-6a91f9887f5012e15c9717a0473aa662.ctex"]
 
 [params]
 

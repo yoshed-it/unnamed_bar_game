@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d37o1ad5h0gio"
-path="res://.godot/imported/Maletrafficcopwalkingnorth8.png-8fd304531bb19961ed6d32c012b3bc4f.ctex"
+path="res://.godot/imported/Maletrafficcopwalkingnorth8.png-1b874fb3d6706b77d64358f0ba861e2e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/MaleTrafficCop/WalkingNorth/Maletrafficcopwalkingnorth8.png"
-dest_files=["res://.godot/imported/Maletrafficcopwalkingnorth8.png-8fd304531bb19961ed6d32c012b3bc4f.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/MaleTrafficCop/WalkingNorth/Maletrafficcopwalkingnorth8.png"
+dest_files=["res://.godot/imported/Maletrafficcopwalkingnorth8.png-1b874fb3d6706b77d64358f0ba861e2e.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyhct3v632ve3"
-path="res://.godot/imported/TilemapDay.png-2cc8eb958b3526a5ea629ccd8eee3fed.ctex"
+path="res://.godot/imported/TilemapDay.png-700393548d34f1098804453a77fd17fb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/GuttyKreum_JapaneseBar/TilemapDay.png"
-dest_files=["res://.godot/imported/TilemapDay.png-2cc8eb958b3526a5ea629ccd8eee3fed.ctex"]
+source_file="res://assets/GuttyKreum_JapaneseBar/TilemapDay.png"
+dest_files=["res://.godot/imported/TilemapDay.png-700393548d34f1098804453a77fd17fb.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0jj3pf5c2gke"
-path="res://.godot/imported/Vent.png-62408a08e6b65a284cdbac17993076df.ctex"
+path="res://.godot/imported/Vent.png-27cba4c3a3c14aaa5ed7e993968fa368.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/GuttyKreum_JapaneseBar/DayTiles/Animated/Vent/Vent.png"
-dest_files=["res://.godot/imported/Vent.png-62408a08e6b65a284cdbac17993076df.ctex"]
+source_file="res://assets/GuttyKreum_JapaneseBar/DayTiles/Animated/Vent/Vent.png"
+dest_files=["res://.godot/imported/Vent.png-27cba4c3a3c14aaa5ed7e993968fa368.ctex"]
 
 [params]
 

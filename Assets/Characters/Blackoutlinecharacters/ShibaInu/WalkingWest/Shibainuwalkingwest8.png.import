@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1m4rimpbxm4b"
-path="res://.godot/imported/Shibainuwalkingwest8.png-df2b65b93409d1ff37a0a18d8d873c32.ctex"
+path="res://.godot/imported/Shibainuwalkingwest8.png-acdd74b6311df211894d3f5b1ade8c60.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/ShibaInu/WalkingWest/Shibainuwalkingwest8.png"
-dest_files=["res://.godot/imported/Shibainuwalkingwest8.png-df2b65b93409d1ff37a0a18d8d873c32.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/ShibaInu/WalkingWest/Shibainuwalkingwest8.png"
+dest_files=["res://.godot/imported/Shibainuwalkingwest8.png-acdd74b6311df211894d3f5b1ade8c60.ctex"]
 
 [params]
 

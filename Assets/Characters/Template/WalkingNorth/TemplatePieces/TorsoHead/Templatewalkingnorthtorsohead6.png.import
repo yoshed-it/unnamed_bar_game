@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdd7pij8f0t34"
-path="res://.godot/imported/Templatewalkingnorthtorsohead6.png-ba8409d2ca026b56edde79f1b0dd52c9.ctex"
+path="res://.godot/imported/Templatewalkingnorthtorsohead6.png-62b65a10e3c73ae92cb369cda66e3d38.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Template/WalkingNorth/TemplatePieces/TorsoHead/Templatewalkingnorthtorsohead6.png"
-dest_files=["res://.godot/imported/Templatewalkingnorthtorsohead6.png-ba8409d2ca026b56edde79f1b0dd52c9.ctex"]
+source_file="res://assets/Characters/Template/WalkingNorth/TemplatePieces/TorsoHead/Templatewalkingnorthtorsohead6.png"
+dest_files=["res://.godot/imported/Templatewalkingnorthtorsohead6.png-62b65a10e3c73ae92cb369cda66e3d38.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://devv8nitqgrjg"
-path="res://.godot/imported/Malestudent1walkingeast7.png-aadacc04c05fed557c4f97104da568b9.ctex"
+path="res://.godot/imported/Malestudent1walkingeast7.png-dcd1e903b9fba044090e4f506cc5cc78.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/MaleStudent1/WalkingEast/Malestudent1walkingeast7.png"
-dest_files=["res://.godot/imported/Malestudent1walkingeast7.png-aadacc04c05fed557c4f97104da568b9.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/MaleStudent1/WalkingEast/Malestudent1walkingeast7.png"
+dest_files=["res://.godot/imported/Malestudent1walkingeast7.png-dcd1e903b9fba044090e4f506cc5cc78.ctex"]
 
 [params]
 

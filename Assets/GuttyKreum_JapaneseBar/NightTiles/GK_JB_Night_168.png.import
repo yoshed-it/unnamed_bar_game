@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://doqrvup8bl4ix"
-path="res://.godot/imported/GK_JB_Night_168.png-7204ed75107cf1bea45c2907c0208f67.ctex"
+path="res://.godot/imported/GK_JB_Night_168.png-afddadcaaea413b4eb00c806c2767d96.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/GuttyKreum_JapaneseBar/NightTiles/GK_JB_Night_168.png"
-dest_files=["res://.godot/imported/GK_JB_Night_168.png-7204ed75107cf1bea45c2907c0208f67.ctex"]
+source_file="res://assets/GuttyKreum_JapaneseBar/NightTiles/GK_JB_Night_168.png"
+dest_files=["res://.godot/imported/GK_JB_Night_168.png-afddadcaaea413b4eb00c806c2767d96.ctex"]
 
 [params]
 

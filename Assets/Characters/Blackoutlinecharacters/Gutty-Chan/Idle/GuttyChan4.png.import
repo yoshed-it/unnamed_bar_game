@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://pwu873l5sf0e"
-path="res://.godot/imported/GuttyChan4.png-3124d75191e528d110ab6e818067d734.ctex"
+path="res://.godot/imported/GuttyChan4.png-880075c86bcd2ca66ab206f3c8d7a0aa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/Gutty-Chan/Idle/GuttyChan4.png"
-dest_files=["res://.godot/imported/GuttyChan4.png-3124d75191e528d110ab6e818067d734.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/Gutty-Chan/Idle/GuttyChan4.png"
+dest_files=["res://.godot/imported/GuttyChan4.png-880075c86bcd2ca66ab206f3c8d7a0aa.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5droh1sgn0it"
-path="res://.godot/imported/Maleyouth1.png-4e570f7ae165cc172ae8311ca86fa67b.ctex"
+path="res://.godot/imported/Maleyouth1.png-23141087a395a4b06bf8bd175add01f5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/MaleYouth/Idle/Maleyouth1.png"
-dest_files=["res://.godot/imported/Maleyouth1.png-4e570f7ae165cc172ae8311ca86fa67b.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/MaleYouth/Idle/Maleyouth1.png"
+dest_files=["res://.godot/imported/Maleyouth1.png-23141087a395a4b06bf8bd175add01f5.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cl86m3lxkfq3h"
-path="res://.godot/imported/Idle4.png-dfff7b65e233b4b2a15a25a02b922836.ctex"
+path="res://.godot/imported/Idle4.png-a4fa6ce403ba3e2cab5e57d60a0b5eb6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Player/FemaleCafeMaid/Idle/Idle4.png"
-dest_files=["res://.godot/imported/Idle4.png-dfff7b65e233b4b2a15a25a02b922836.ctex"]
+source_file="res://player/FemaleCafeMaid/Idle/Idle4.png"
+dest_files=["res://.godot/imported/Idle4.png-a4fa6ce403ba3e2cab5e57d60a0b5eb6.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdfkqumst8c2y"
-path="res://.godot/imported/Femaleofficeworkerwalkingnorth6.png-2f442cce3c0a5ddae584e3cd3d1b2a7a.ctex"
+path="res://.godot/imported/Femaleofficeworkerwalkingnorth6.png-ff6382edbc6d225ceb548eb8632f05c6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/FemaleOfficeWorker/WalkingNorth/Femaleofficeworkerwalkingnorth6.png"
-dest_files=["res://.godot/imported/Femaleofficeworkerwalkingnorth6.png-2f442cce3c0a5ddae584e3cd3d1b2a7a.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/FemaleOfficeWorker/WalkingNorth/Femaleofficeworkerwalkingnorth6.png"
+dest_files=["res://.godot/imported/Femaleofficeworkerwalkingnorth6.png-ff6382edbc6d225ceb548eb8632f05c6.ctex"]
 
 [params]
 

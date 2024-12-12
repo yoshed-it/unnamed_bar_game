@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0fwhni04a0rk"
-path="res://.godot/imported/GuttyChanwalkingnorth7.png-8dd22fd8cb55dbd0f570cad1c24e9b4b.ctex"
+path="res://.godot/imported/GuttyChanwalkingnorth7.png-cc4d5e03ded880f3a32489b0827b25f4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/Gutty-Chan/WalkingNorth/GuttyChanwalkingnorth7.png"
-dest_files=["res://.godot/imported/GuttyChanwalkingnorth7.png-8dd22fd8cb55dbd0f570cad1c24e9b4b.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/Gutty-Chan/WalkingNorth/GuttyChanwalkingnorth7.png"
+dest_files=["res://.godot/imported/GuttyChanwalkingnorth7.png-cc4d5e03ded880f3a32489b0827b25f4.ctex"]
 
 [params]
 

@@ -1,7 +1,7 @@
 [gd_resource type="Resource" script_class="BoozeData" load_steps=3 format=3 uid="uid://bdixnlh5lop2d"]
 
-[ext_resource type="Script" path="res://Items/Scripts/booze_data.gd" id="1_5bvyk"]
-[ext_resource type="Texture2D" uid="uid://cou2aedmsww41" path="res://Items/Sprites/Individual_Icons/GuttyKreum_JapanCollection_Icons_028.png" id="2_vwwt6"]
+[ext_resource type="Script" path="res://scripts/items/booze_data.gd" id="1_5bvyk"]
+[ext_resource type="Texture2D" uid="uid://cou2aedmsww41" path="res://items/sprites/Individual_Icons/GuttyKreum_JapanCollection_Icons_028.png" id="2_vwwt6"]
 
 [resource]
 script = ExtResource("1_5bvyk")

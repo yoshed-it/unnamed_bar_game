@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dx37l2dreot4p"
-path="res://.godot/imported/Maletraditionalwalkingwest3.png-2e05bcc9da482b4d9008d0f90323c6e6.ctex"
+path="res://.godot/imported/Maletraditionalwalkingwest3.png-6947f1f7ee40051163ba681af0cba76c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/MaleTraditional/WalkingWest/Maletraditionalwalkingwest3.png"
-dest_files=["res://.godot/imported/Maletraditionalwalkingwest3.png-2e05bcc9da482b4d9008d0f90323c6e6.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/MaleTraditional/WalkingWest/Maletraditionalwalkingwest3.png"
+dest_files=["res://.godot/imported/Maletraditionalwalkingwest3.png-6947f1f7ee40051163ba681af0cba76c.ctex"]
 
 [params]
 

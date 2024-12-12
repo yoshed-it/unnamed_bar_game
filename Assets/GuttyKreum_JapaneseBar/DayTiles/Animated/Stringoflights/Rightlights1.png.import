@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bprle78dubfav"
-path="res://.godot/imported/Rightlights1.png-0276b4844c7726fda8d9ef2ca3c9d26c.ctex"
+path="res://.godot/imported/Rightlights1.png-9ccf699477d6fcdec6ca01a8ce7e9fc5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/GuttyKreum_JapaneseBar/DayTiles/Animated/Stringoflights/Rightlights1.png"
-dest_files=["res://.godot/imported/Rightlights1.png-0276b4844c7726fda8d9ef2ca3c9d26c.ctex"]
+source_file="res://assets/GuttyKreum_JapaneseBar/DayTiles/Animated/Stringoflights/Rightlights1.png"
+dest_files=["res://.godot/imported/Rightlights1.png-9ccf699477d6fcdec6ca01a8ce7e9fc5.ctex"]
 
 [params]
 

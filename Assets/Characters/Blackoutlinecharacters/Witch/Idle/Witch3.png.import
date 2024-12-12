@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bntpy7ij7ck1y"
-path="res://.godot/imported/Witch3.png-574733598de6959bef24a491f4e86e5e.ctex"
+path="res://.godot/imported/Witch3.png-691b4935f97008cf7f0177c90eec4f9a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/Witch/Idle/Witch3.png"
-dest_files=["res://.godot/imported/Witch3.png-574733598de6959bef24a491f4e86e5e.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/Witch/Idle/Witch3.png"
+dest_files=["res://.godot/imported/Witch3.png-691b4935f97008cf7f0177c90eec4f9a.ctex"]
 
 [params]
 

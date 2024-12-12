@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c712c0myc1itd"
-path="res://.godot/imported/Femalebakerwalkingeast8.png-362181131a80de25b4e0773abc6d57ab.ctex"
+path="res://.godot/imported/Femalebakerwalkingeast8.png-7167370a19f62a9b2ae0131fa0945973.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/FemaleBaker/WalkingEast/Femalebakerwalkingeast8.png"
-dest_files=["res://.godot/imported/Femalebakerwalkingeast8.png-362181131a80de25b4e0773abc6d57ab.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/FemaleBaker/WalkingEast/Femalebakerwalkingeast8.png"
+dest_files=["res://.godot/imported/Femalebakerwalkingeast8.png-7167370a19f62a9b2ae0131fa0945973.ctex"]
 
 [params]
 

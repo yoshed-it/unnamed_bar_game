@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://x6tnqtpgdron"
-path="res://.godot/imported/TilemapNight.png-29a233647dce065c6cf296063f379f08.ctex"
+path="res://.godot/imported/TilemapNight.png-e355c61bdf81b6aaec97280a64c71071.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/GuttyKreum_JapaneseBar/TilemapNight.png"
-dest_files=["res://.godot/imported/TilemapNight.png-29a233647dce065c6cf296063f379f08.ctex"]
+source_file="res://assets/GuttyKreum_JapaneseBar/TilemapNight.png"
+dest_files=["res://.godot/imported/TilemapNight.png-e355c61bdf81b6aaec97280a64c71071.ctex"]
 
 [params]
 

@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://k753rq4kamis"]
 
-[ext_resource type="Texture2D" uid="uid://cou2aedmsww41" path="res://Items/Sprites/Individual_Icons/GuttyKreum_JapanCollection_Icons_028.png" id="1_i8orr"]
-[ext_resource type="Script" path="res://GUI/pause_menu/Inventory/inventory_slot_ui.gd" id="1_r77i5"]
+[ext_resource type="Texture2D" uid="uid://cou2aedmsww41" path="res://items/sprites/Individual_Icons/GuttyKreum_JapanCollection_Icons_028.png" id="1_i8orr"]
+[ext_resource type="Script" path="res://scripts/gui/inventory/inventory_slot_ui.gd" id="1_r77i5"]
 
 [node name="InventorySlot" type="Button"]
 custom_minimum_size = Vector2(32, 32)

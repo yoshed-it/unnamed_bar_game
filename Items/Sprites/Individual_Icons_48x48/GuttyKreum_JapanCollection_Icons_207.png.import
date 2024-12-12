@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://tkxfxc0hboes"
-path="res://.godot/imported/GuttyKreum_JapanCollection_Icons_207.png-57197ff65fa69454145770fd345f8073.ctex"
+path="res://.godot/imported/GuttyKreum_JapanCollection_Icons_207.png-68a548a1067f0e96bd306ccc4793064d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Items/Sprites/Individual_Icons_48x48/GuttyKreum_JapanCollection_Icons_207.png"
-dest_files=["res://.godot/imported/GuttyKreum_JapanCollection_Icons_207.png-57197ff65fa69454145770fd345f8073.ctex"]
+source_file="res://items/sprites/Individual_Icons_48x48/GuttyKreum_JapanCollection_Icons_207.png"
+dest_files=["res://.godot/imported/GuttyKreum_JapanCollection_Icons_207.png-68a548a1067f0e96bd306ccc4793064d.ctex"]
 
 [params]
 

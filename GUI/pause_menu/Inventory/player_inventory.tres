@@ -1,9 +1,9 @@
 [gd_resource type="Resource" script_class="InventoryData" load_steps=7 format=3 uid="uid://cm5xbtntdt2kw"]
 
-[ext_resource type="Script" path="res://GUI/pause_menu/Inventory/Scripts/inventory_data.gd" id="1_nhxrf"]
-[ext_resource type="Script" path="res://GUI/pause_menu/Inventory/Scripts/slot_data.gd" id="2_jiprg"]
-[ext_resource type="Resource" uid="uid://bdixnlh5lop2d" path="res://Items/Vodka/vodka_frostbite.tres" id="3_7jx6k"]
-[ext_resource type="Resource" uid="uid://7a6ua56he3f0" path="res://Items/Whiskey/whiskey_bourbon_golden_petal.tres" id="4_fuqyp"]
+[ext_resource type="Script" path="res://scripts/gui/inventory/inventory_data.gd" id="1_nhxrf"]
+[ext_resource type="Script" path="res://scripts/gui/inventory/slot_data.gd" id="2_jiprg"]
+[ext_resource type="Resource" uid="uid://bdixnlh5lop2d" path="res://items/vodka/vodka_frostbite.tres" id="3_7jx6k"]
+[ext_resource type="Resource" uid="uid://7a6ua56he3f0" path="res://items/whiskey/whiskey_bourbon_golden_petal.tres" id="4_fuqyp"]
 
 [sub_resource type="Resource" id="Resource_37k6k"]
 script = ExtResource("2_jiprg")

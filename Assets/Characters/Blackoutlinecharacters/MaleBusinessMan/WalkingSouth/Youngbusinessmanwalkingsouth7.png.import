@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4rmpr1d2cxvg"
-path="res://.godot/imported/Youngbusinessmanwalkingsouth7.png-02547cab91afd0a1a237f37a4e20091c.ctex"
+path="res://.godot/imported/Youngbusinessmanwalkingsouth7.png-6d7763c1bda473fc967e23c42900a3c3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/MaleBusinessMan/WalkingSouth/Youngbusinessmanwalkingsouth7.png"
-dest_files=["res://.godot/imported/Youngbusinessmanwalkingsouth7.png-02547cab91afd0a1a237f37a4e20091c.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/MaleBusinessMan/WalkingSouth/Youngbusinessmanwalkingsouth7.png"
+dest_files=["res://.godot/imported/Youngbusinessmanwalkingsouth7.png-6d7763c1bda473fc967e23c42900a3c3.ctex"]
 
 [params]
 

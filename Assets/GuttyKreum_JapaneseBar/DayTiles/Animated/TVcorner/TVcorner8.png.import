@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dla5y1h3k8g7s"
-path="res://.godot/imported/TVcorner8.png-b31280d3f78e4995f6ee57bfc2d29b07.ctex"
+path="res://.godot/imported/TVcorner8.png-0114742ac6203ad55a157cee14667c90.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/GuttyKreum_JapaneseBar/DayTiles/Animated/TVcorner/TVcorner8.png"
-dest_files=["res://.godot/imported/TVcorner8.png-b31280d3f78e4995f6ee57bfc2d29b07.ctex"]
+source_file="res://assets/GuttyKreum_JapaneseBar/DayTiles/Animated/TVcorner/TVcorner8.png"
+dest_files=["res://.godot/imported/TVcorner8.png-0114742ac6203ad55a157cee14667c90.ctex"]
 
 [params]
 

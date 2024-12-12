@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bdl546dd3svkf"
-path="res://.godot/imported/GK_JB_Day_287.png-1eb70fddf867133b76138c0ed50da66e.ctex"
+path="res://.godot/imported/GK_JB_Day_287.png-27a76ab3c60b98798fa4bb2a00265bfa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/GuttyKreum_JapaneseBar/DayTiles/GK_JB_Day_287.png"
-dest_files=["res://.godot/imported/GK_JB_Day_287.png-1eb70fddf867133b76138c0ed50da66e.ctex"]
+source_file="res://assets/GuttyKreum_JapaneseBar/DayTiles/GK_JB_Day_287.png"
+dest_files=["res://.godot/imported/GK_JB_Day_287.png-27a76ab3c60b98798fa4bb2a00265bfa.ctex"]
 
 [params]
 

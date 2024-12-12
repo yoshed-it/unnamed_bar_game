@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d3371hwbe1jli"
-path="res://.godot/imported/Femaleyouthwalkingnorth1.png-787a3d51ef868ff682887a3782537785.ctex"
+path="res://.godot/imported/Femaleyouthwalkingnorth1.png-cc9d3aa55cc00a03715d24bcd683a62d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/FemaleYouth/WalkingNorth/Femaleyouthwalkingnorth1.png"
-dest_files=["res://.godot/imported/Femaleyouthwalkingnorth1.png-787a3d51ef868ff682887a3782537785.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/FemaleYouth/WalkingNorth/Femaleyouthwalkingnorth1.png"
+dest_files=["res://.godot/imported/Femaleyouthwalkingnorth1.png-cc9d3aa55cc00a03715d24bcd683a62d.ctex"]
 
 [params]
 

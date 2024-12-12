@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxlrvhrgsgkr0"
-path="res://.godot/imported/Shibainu3.png-3c2877c61b066f5b880cb86888f13dd8.ctex"
+path="res://.godot/imported/Shibainu3.png-14784b169718b7f61c0193272a62fb38.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/ShibaInu/Idle/Shibainu3.png"
-dest_files=["res://.godot/imported/Shibainu3.png-3c2877c61b066f5b880cb86888f13dd8.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/ShibaInu/Idle/Shibainu3.png"
+dest_files=["res://.godot/imported/Shibainu3.png-14784b169718b7f61c0193272a62fb38.ctex"]
 
 [params]
 

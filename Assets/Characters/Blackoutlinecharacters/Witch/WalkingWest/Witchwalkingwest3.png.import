@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cclytfpdwmavr"
-path="res://.godot/imported/Witchwalkingwest3.png-24430d6b6be9dd7843d7b52764cc5a66.ctex"
+path="res://.godot/imported/Witchwalkingwest3.png-bd8f06ab984cb565f54edac1a3137221.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/Witch/WalkingWest/Witchwalkingwest3.png"
-dest_files=["res://.godot/imported/Witchwalkingwest3.png-24430d6b6be9dd7843d7b52764cc5a66.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/Witch/WalkingWest/Witchwalkingwest3.png"
+dest_files=["res://.godot/imported/Witchwalkingwest3.png-bd8f06ab984cb565f54edac1a3137221.ctex"]
 
 [params]
 

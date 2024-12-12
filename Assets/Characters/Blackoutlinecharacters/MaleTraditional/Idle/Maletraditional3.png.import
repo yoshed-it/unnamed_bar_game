@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0i5sj13pigq1"
-path="res://.godot/imported/Maletraditional3.png-eec16bcee9355bde5eef6588f55bd67f.ctex"
+path="res://.godot/imported/Maletraditional3.png-902f673c4882aad5009b2d96fa6406d3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/MaleTraditional/Idle/Maletraditional3.png"
-dest_files=["res://.godot/imported/Maletraditional3.png-eec16bcee9355bde5eef6588f55bd67f.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/MaleTraditional/Idle/Maletraditional3.png"
+dest_files=["res://.godot/imported/Maletraditional3.png-902f673c4882aad5009b2d96fa6406d3.ctex"]
 
 [params]
 

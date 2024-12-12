@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqm2ui4x480op"
-path="res://.godot/imported/Templatewalkingnorth7.png-555d7bf652277927e471683e3d688db9.ctex"
+path="res://.godot/imported/Templatewalkingnorth7.png-ed88c885bb2a0ec92b8aa79d1c5438fd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Template/WalkingNorth/Templatewalkingnorth7.png"
-dest_files=["res://.godot/imported/Templatewalkingnorth7.png-555d7bf652277927e471683e3d688db9.ctex"]
+source_file="res://assets/Characters/Template/WalkingNorth/Templatewalkingnorth7.png"
+dest_files=["res://.godot/imported/Templatewalkingnorth7.png-ed88c885bb2a0ec92b8aa79d1c5438fd.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cn2qlxuhwb685"
-path="res://.godot/imported/Femaleelder2.png-76c944262d649497c2f2b0954a6db7b5.ctex"
+path="res://.godot/imported/Femaleelder2.png-9964f1a467527cc06f6475447de7b9c1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Blackoutlinecharacters/FemaleElder/Idle/Femaleelder2.png"
-dest_files=["res://.godot/imported/Femaleelder2.png-76c944262d649497c2f2b0954a6db7b5.ctex"]
+source_file="res://assets/Characters/Blackoutlinecharacters/FemaleElder/Idle/Femaleelder2.png"
+dest_files=["res://.godot/imported/Femaleelder2.png-9964f1a467527cc06f6475447de7b9c1.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bq5akfcc1th7h"
-path="res://.godot/imported/Femalemaidwalkingnorth4.png-7a0071db88e2e00c1fe719c3ca5e77ac.ctex"
+path="res://.godot/imported/Femalemaidwalkingnorth4.png-26f8bee695a67db0067115d82beb9b44.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Player/FemaleCafeMaid/WalkingNorth/Femalemaidwalkingnorth4.png"
-dest_files=["res://.godot/imported/Femalemaidwalkingnorth4.png-7a0071db88e2e00c1fe719c3ca5e77ac.ctex"]
+source_file="res://player/FemaleCafeMaid/WalkingNorth/Femalemaidwalkingnorth4.png"
+dest_files=["res://.godot/imported/Femalemaidwalkingnorth4.png-26f8bee695a67db0067115d82beb9b44.ctex"]
 
 [params]
 
